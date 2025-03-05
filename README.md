@@ -20,7 +20,7 @@ The `EmotionClassifier` model consists of:
 - **5 Convolutional Layers**
 - **MaxPooling Layers** after every convolutional layer
 - **Dropout Layer** to prevent overfitting
-- **Fully Connected Layers** with ReLU activation
+- **Fully Connected Layers** with ReLU activation 
 - **Final Output Layer** with 7 classes (softmax activation is handled by CrossEntropyLoss)
 
 ## Training Process
